@@ -10,28 +10,28 @@ Ruby-based tool designed to help you manage, analyze, code, and visualize qualit
 - Explore intersectional identities and social dynamics
 
 ## Project Structure
-identity_research_tool/
-├── lib/
-│ ├── data_manager.rb
-│ ├── data_analyzer.rb
-│ ├── data_coder.rb
-│ ├── graph_visualizer.rb
-│ └── models/
-│ ├── identity.rb
-│ ├── experience.rb
-│ └── connection.rb
-├── data/
-│ └── survey_data.csv
-├── views/
-│ └── graph.erb
-├── public/
-│ ├── css/
-│ │ └── styles.css
-│ └── js/
-│ └── graph_interaction.js
-├── app.rb
-├── config.ru
-└── Gemfile
+- identity_research_tool/
+- ├── lib/
+- │ ├── data_manager.rb
+- │ ├── data_analyzer.rb
+- │ ├── data_coder.rb
+- │ ├── graph_visualizer.rb
+- │ └── models/
+- │ ├── identity.rb
+- │ ├── experience.rb
+- │ └── connection.rb
+- ├── data/
+- │ └── survey_data.csv
+- ├── views/
+- │ └── graph.erb
+- ├── public/
+- │ ├── css/
+- │ │ └── styles.css
+- │ └── js/
+- │ └── graph_interaction.js
+- ├── app.rb
+- ├── config.ru
+- └── Gemfile
 
 ## Installation
 
