@@ -56,7 +56,8 @@ Ruby-based tool designed to help you manage, analyze, code, and visualize qualit
 - Place your survey data in the `data/survey_data.csv` file.
 - Customize the `lib/data_manager.rb`, `lib/data_analyzer.rb`, `lib/data_coder.rb`, and `lib/graph_visualizer.rb` files as needed.
 - Access the application through your web browser to interact with the visualizations.
-
+## Note
+Stolen idea from: @CoralineAda
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
